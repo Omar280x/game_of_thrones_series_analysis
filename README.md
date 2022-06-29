@@ -12,6 +12,9 @@
 ### We worked on 4 datasets in which we investigated and visualized the series ratings, battles and deaths.
 ### We have made a character suruvival analysis to predict who would die and live.
 
+#### Link of Dash app on Heroku : https://got-analysis.herokuapp.com/
+#### Full website of the project : https://got-analysis.github.io/GOT/
+
 ## Technologies used in this project:
 * python
 * pandas
