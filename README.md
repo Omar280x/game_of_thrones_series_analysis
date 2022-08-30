@@ -5,7 +5,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Omar Moustafa</h1>
-<h3 align="center">A junior Machine Learning Engineer</h3>
+<h3 align="center">A Machine Learning Engineer</h3>
 
 
 ### This Plotly Dash App is an analytical view of the great series Game of Thrones.
